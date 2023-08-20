@@ -1,0 +1,47 @@
+
+
+.menu {
+ 
+ height: 50px;
+    background-color:rgb(183, 154, 211);
+    position: fixed;
+    width: 100%;}
+    .menu h2 {text-align: start;}
+    .menu {text-align:right;}
+    
+        
+
+.start {
+    background-color: #be62d4;
+    width: 100%};
+    .start h2 { text-align: center; color: white;}
+    .start p {text-align: center; color: white;}
+
+  
+
+.portafolio h1 { text-align: center; background-color: rgb(255, 255, 255);} 
+.portafolio img{height: 240px;}
+.portafolio { background-color: rgb(255, 255, 255);}
+.imagen img{ border-radius: 15px;}
+.acercade h1{ text-align: center; background-color: #be62d4; color: white;}
+.acercade {background-color:#be62d4;}
+.acercade  button { color: white;
+ background-color: transparent;
+ border-radius: 25px 25px 25px 25px;
+ padding: 25px 40px;
+ cursor:pointer;
+ border-color: white;
+ background-color: transparent;}
+ .contactame {background-color: white}
+ .contactame h1{color: black; background-color: white;}
+ .form hr {color: white;}
+style
+ .final {
+     text-align: right;
+ }
+
+ .final h1 {
+     display: inline-block;
+     margin: 0 10px;
+     font-size: 24px;}
+
